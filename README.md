@@ -1,10 +1,11 @@
-# socket-programming
+# IPC-programming
 
-core socket programming in C
+IPC programming in C
 
-- `/tcp` - IP and Port based network socket
-- `/internal` - Domain based socket (Internal, linux file based)
-- `/http` - Http based socket
+1. sockets
+   - `/tcp` - IP and Port based network socket
+   - `/internal` - Domain based socket (Internal, linux file based)
+   - `/http` - Http based socket
 
 ## How to Run
 
